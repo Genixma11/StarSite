@@ -1,9 +1,9 @@
 # Laravel Template
 
-[![GitHub release](https://img.shields.io/github/release/The-Education-and-Skills-Partnership/Laravel-Template.svg)](https://GitHub.com/The-Education-and-Skills-Partnership/Laravel-Template/releases/)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/The-Education-and-Skills-Partnership/Laravel-Template/run-tests?label=tests)](https://github.com/The-Education-and-Skills-Partnership/Laravel-Template/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/The-Education-and-Skills-Partnership/Laravel-Template/Check%20&%20fix%20styling?label=code%20style)](https://github.com/The-Education-and-Skills-Partnership/Laravel-Template/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amain)
-[![Github all releases](https://img.shields.io/github/downloads/The-Education-and-Skills-Partnership/Laravel-Template/total.svg)](https://GitHub.com/The-Education-and-Skills-Partnership/Laravel-Template/releases/)
+[![GitHub release](https://img.shields.io/github/release/Genixma11/StarSite.svg)](https://GitHub.com/Genixma11/StarSite/releases/)
+[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/Genixma11/StarSite/run-tests?label=tests)](https://github.com/Genixma11/StarSite/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/Genixma11/StarSite/Check%20&%20fix%20styling?label=code%20style)](https://github.com/Genixma11/StarSite/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amain)
+[![Github all releases](https://img.shields.io/github/downloads/Genixma11/StarSite/total.svg)](https://GitHub.com/Genixma11/StarSite/releases/)
 
 Project Description
 
